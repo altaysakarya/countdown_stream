@@ -1,4 +1,4 @@
-# CountdownStream Package
+# CountdownStream Package
 
 A simple and efficient countdown timer package for Dart applications, providing a stream of countdown ticks with pause, resume, reset, and dispose capabilities.
 
@@ -10,11 +10,11 @@ A simple and efficient countdown timer package for Dart applications, providing 
 * Listen to the countdown updates via a broadcast stream.
 * Perform actions on completion, pause, resume, reset, and dispose events.
 
-## Getting Started
+## Getting Started
 
 To use this package, add countdown_stream as a dependency in your pubspec.yaml file.
 
-## Installation
+## Installation
 
 ```yaml
 dependencies:
